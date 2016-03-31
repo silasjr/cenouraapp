@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"err",
+				"errosValidacao"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/silas/git/cordova"
+	],
+	"file_history":
+	[
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/controllers/painelAlarmeCtrl.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/importacao/config.php",
+		"/home/silas/git/exemplo-git/index.html",
+		"/home/silas/vagrant/vm-git/manifests/vm-git.pp",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/tipoCondicaoCompra.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/painel_alarmes/index.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/painel_alarmes/view.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/painel_alarmes/modal_detalhes_painel.html",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/CondicaoCompraAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/estoques_maximos/edit.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/controllers/estoquesMaximosCtrl.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/estoques_maximos/modal_verificarPorcentagem.html",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/estoques_maximos/modal_verificarTotalPorcentagem.html",
+		"/home/silas/vagrant/vm-git/Vagrantfile",
+		"/home/silas/git/bookmark-angularjs/vm-apache/Vagrantfile",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/app.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/tipo_condicao_compra/index.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/nivel_essencialidades/view.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/estoquesMaximosAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/clienteAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/painelAlarmeAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/programaAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/config/constants.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/css/style.css",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/layouts/default_responsive.thtml",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/app_controller.php",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/config/database.php",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/controllers/painelAlarmeViewCtrl.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/controllers/tipoCondicaoCompra.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/projecaocompra/services/authAPI.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/js/angular-resource.min.js",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/css/impressao.css",
+		"/home/silas/Projeto-GIS/conexao.mpro.txt",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/painel_alarmes/modal_gerarpainel.html",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/webroot/css/cake.generic.css",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/.htaccess",
+		"/home/silas/vagrant/vm-ajuri/Vagrantfile",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/config/acl.ini.php",
+		"/home/silas/Fabrica/sublime-projects/ajuri-pc.sublime-project",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/controllers/painel_alarmes_controller.php",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/controllers/nivel_essencialidades_controller.php",
+		"/home/silas/vagrant/vm-ajuri/manifests/vm-ajuri.pp",
+		"/media/silas/6B58397A1295D61E/backup-linux-PRODAM/Fabrica/workspace/workspace-detran-prova-eletronica/provaeletronica-angular/index.html",
+		"/home/silas/git/wp-vagrant/environments/files/suphp.conf",
+		"/home/silas/Área de trabalho/json_prodam(1).json",
+		"/home/silas/Fabrica/workspace/workspace-php/ajuri/views/abrangencias/add.thtml",
+		"/home/silas/git/alura-nodejs/package.json",
+		"/home/silas/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"concluir",
+			"resumo",
+			"aba compra",
+			"webroot_sistema",
+			"BASE_VIEWS",
+			"BASE_URL_VIRTUAL",
+			"SQL.append(\"",
+			"');\n",
+			"carregarPainel",
+			"node",
+			"			\n",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cordova.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"painela",
+				"webroot/js/projecaocompra/controllers/painelAlarmeCtrl.js"
+			],
+			[
+				"views/painel_alarmes/",
+				"views/painel_alarmes/index.thtml"
+			],
+			[
+				"views/proje",
+				"views/projecaos_compras/add.thtml"
+			],
+			[
+				"js/projecaocompra",
+				"webroot/js/projecaocompra/controllers/projecaoCompraCtrl.js"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"confi",
+				"views/importacao/config.php"
+			],
+			[
+				"modal_verificartotalporcentagem.html",
+				"views/estoques_maximos/modal_verificarTotalPorcentagem.html"
+			],
+			[
+				"modal_ver",
+				"views/estoques_maximos/modal_verificarPorcentagem.html"
+			],
+			[
+				"estoquesma",
+				"webroot/js/projecaocompra/controllers/estoquesMaximosCtrl.js"
+			],
+			[
+				"estoques_maximos/",
+				"views/estoques_maximos/edit.thtml"
+			],
+			[
+				"",
+				"views/painel_alarmes/view.thtml"
+			],
+			[
+				"estoque_maximos/",
+				"views/estoques_maximos/edit.thtml"
+			],
+			[
+				"services/condi",
+				"webroot/js/projecaocompra/services/CondicaoCompraAPI.js"
+			],
+			[
+				"app.",
+				"webroot/js/projecaocompra/app.js"
+			],
+			[
+				"auth.",
+				"webroot/js/projecaocompra/services/authAPI.js"
+			],
+			[
+				"default_re",
+				"views/layouts/default_responsive.thtml"
+			],
+			[
+				"app.js",
+				"webroot/js/projecaocompra/app.js"
+			],
+			[
+				"apinela",
+				"webroot/js/projecaocompra/controllers/painelAlarmeViewCtrl.js"
+			],
+			[
+				"paine",
+				"webroot/js/projecaocompra/services/painelAlarmeAPI.js"
+			],
+			[
+				"app_con",
+				"app_controller.php"
+			],
+			[
+				"impre",
+				"webroot/css/impressao.css"
+			],
+			[
+				"style.",
+				"webroot/css/style.css"
+			],
+			[
+				"respo",
+				"views/layouts/default_responsive.thtml"
+			],
+			[
+				"consta",
+				"webroot/js/projecaocompra/config/constants.js"
+			],
+			[
+				"painel",
+				"webroot/js/projecaocompra/controllers/painelAlarmeViewCtrl.js"
+			],
+			[
+				"painelala",
+				"webroot/js/projecaocompra/services/painelAlarmeAPI.js"
+			],
+			[
+				"notif",
+				"webroot/js/projecaocompra/services/notificacao.js"
+			],
+			[
+				"ex",
+				"config/express.js"
+			],
+			[
+				"prod",
+				"app/routes/produtos.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
